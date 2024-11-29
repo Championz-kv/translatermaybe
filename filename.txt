@@ -1,6 +1,6 @@
-# comment1
+# this file should be saved in the directory required to read the file, the name is filename.txt
 print("this program will be converted for c language")
 
 a = input("( this text will be on printf ) enter a string")
 
-# comment2
+# this is just a test file to test the code and eliminate bugs.
