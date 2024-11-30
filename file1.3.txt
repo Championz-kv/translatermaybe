@@ -1,0 +1,8 @@
+# this file should be saved in the directory required to read the file, the name is file1.3.txt
+print("this program will be converted for c language")
+
+num = int(input("enter a number"))
+
+ch = input("( this text will be on printf ) enter a string")
+
+# this is just a test file to test the code and eliminate bugs.
